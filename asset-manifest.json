@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/chuck-jokes/static/css/main.576c3edd.css",
+    "main.css": "/chuck-jokes/static/css/main.97c04eeb.css",
     "main.js": "/chuck-jokes/static/js/main.dc4ceb12.js",
     "static/js/787.9c53bbf3.chunk.js": "/chuck-jokes/static/js/787.9c53bbf3.chunk.js",
     "index.html": "/chuck-jokes/index.html",
-    "main.576c3edd.css.map": "/chuck-jokes/static/css/main.576c3edd.css.map",
+    "main.97c04eeb.css.map": "/chuck-jokes/static/css/main.97c04eeb.css.map",
     "main.dc4ceb12.js.map": "/chuck-jokes/static/js/main.dc4ceb12.js.map",
     "787.9c53bbf3.chunk.js.map": "/chuck-jokes/static/js/787.9c53bbf3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.576c3edd.css",
+    "static/css/main.97c04eeb.css",
     "static/js/main.dc4ceb12.js"
   ]
 }
